@@ -25,7 +25,7 @@
 
     width: auto;
     height: 100vh;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.43)), url(./images/Hero-img.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.43)), url(./img/Hero-img.jpg);
     background-size: cover;
     background-position: center;
 
